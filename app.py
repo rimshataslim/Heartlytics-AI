@@ -7,14 +7,14 @@ import pandas as pd
 # ---------------------------------------------------
 # Sidebar Info
 # ---------------------------------------------------
-st.sidebar.caption("Developed by Abhas Kumar Bardhan")
+st.sidebar.caption("Developed by Rimsha Taslim")
 
 # ---------------------------------------------------
 # Header Section
 # ---------------------------------------------------
-st.header("CardioSense AI")
+st.header("Heartlytics AI")
 st.caption("Machine Learning–Based Clinical Risk Prediction System")
-st.caption("Developed by Abhas Kumar Bardhan")
+st.caption("Developed by Rimsha Taslim")
 
 data = """
 Cardiovascular diseases remain one of the leading causes of death worldwide.
